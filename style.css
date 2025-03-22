@@ -6,6 +6,7 @@ body {
     background-size: 30px 30px;
     font-family: 'Jua', sans-serif;
     text-align: center;
+    color : #9d4d7e;
 }
 
 
@@ -142,13 +143,15 @@ p{
 }
 
 #templateSelect {
-    padding: 6px 12px;
+    margin-top: 7px;
+    padding: 10px 20px;
     border-radius: 6px;
     border: 1px solid #d35b8c;
     font-family: 'Jua', sans-serif;
     background-color: #fff;
     color: #9d4d7e;
 }
+
 
 /* 📱 Mobile friendly */
 @media (max-width: 500px) {
